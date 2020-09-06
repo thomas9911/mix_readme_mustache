@@ -1,0 +1,4 @@
+%{
+  "mix_readme": {:hex, :mix_readme, "0.2.0", "2d92d764d9162f8aebc6c4c08b11eb37e5a9f2fde1c13a87a697c83abbc4d9c8", [:mix], [], "hexpm", "596e056817f07dd9ddf87c1dd6e8d54e80758b3ea8f07daf85cf900dc08d2a1a"},
+  "mustache": {:hex, :mustache, "0.3.1", "4c6ee79b13aae954035fe31b83c94480ddc7b536d09c44d4c65e61a9ead38d6b", [:mix], [], "hexpm", "8dc92b9b92a0d7449628f4fc981f8018a16a5b8c9907249e59db461482dac143"},
+}
